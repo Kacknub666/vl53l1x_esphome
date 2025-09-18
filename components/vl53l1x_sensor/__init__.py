@@ -1,2 +1,1 @@
-# __init__.py
-# Leer, nur damit ESPHome das Repo als external_component erkennt
+# init file for vl53l1x_sensor
